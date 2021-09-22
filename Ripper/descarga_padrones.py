@@ -21,6 +21,7 @@ class Descarga_padrones:
     def download_file(filename, ID):
     
         for i in ID:
+            link = Descarga_padrones.pdf_path + i + ".pdf"
             try:
                 response = urllib.request.urlopen(Descarga_padrones.pdf_path + i + ".pdf")    
                 file = open(filename + i +".pdf", 'wb')
@@ -28,5 +29,6 @@ class Descarga_padrones:
                 file.close()
             except:
                 print("No existe la URL")
+                print(link)
             filename = Descarga_padrones.root + "/Ripper/Padrones/"
 

@@ -5,4 +5,7 @@
 ## Implementation
 
 ### 1) Create the folder *Padrones* in `\Ripper`
-### 2) Run
+### 2) Run ´main.py´
+
+
+> ## DISCLAIMER: THE LINK IS NO LONGER AVAILABLE
