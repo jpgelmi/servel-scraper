@@ -5,15 +5,13 @@
 # DISCLAIMER
 
 ### With this project, I want to show how easy is to obtain personal data in Chile. Something that needs to change.
+
+### THE LINK IS NO LONGER AVAILABLE
 ## Implementation
 
 ### 1) `git clone https://github.com/jpgelmi/Servel-ripper.git`
 ### 2) Create the folder *Padrones* in `\Ripper`
 ### 3) Run ´main.py´
-
-
-> ## DISCLAIMER: THE LINK IS NO LONGER AVAILABLE
-
 ### When you run the project you will have the following files...
 
 ### ´A01101.pdf´
