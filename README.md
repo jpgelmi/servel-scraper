@@ -20,4 +20,7 @@
 ### ...
 ### ´A16305.pdf´
 
+### For more information check out this link
+`https://servel.cl/padron-electoral-definitivo-y-nomina-de-inhabilitados-elecciones-generales-2021/`
+
 <p align="center"><img width="400" src="https://github.com/jpgelmi/Servel-ripper/blob/main/assets/image.png" alt="Calculator image"></p>

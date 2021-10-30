@@ -4,7 +4,10 @@ import os
 class Descarga_padrones:
 
     root = os.path.abspath("./")
-    pdf_path = "https://cdn.servel.cl/padron/"
+    pdf_path = "https://cdn.servel.cl/padrondefinitivo/"
+    
+    #https://servel.cl/padron-electoral-definitivo-y-nomina-de-inhabilitados-elecciones-generales-2021/
+    #https://cdn.servel.cl/padrondefinitivo/
 
     def get_id():
         ID = []
