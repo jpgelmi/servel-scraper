@@ -6,6 +6,7 @@ class Descarga_padrones:
     root = os.path.abspath("./")
     pdf_path = "https://cdn.servel.cl/padrondefinitivo/"
     
+    #Antes los padrones estaban acá -> https://cdn.servel.cl/padron/
     #https://servel.cl/padron-electoral-definitivo-y-nomina-de-inhabilitados-elecciones-generales-2021/
     #https://cdn.servel.cl/padrondefinitivo/
 
@@ -30,6 +31,7 @@ class Descarga_padrones:
                 file = open(filename + i +".pdf", 'wb')
                 file.write(response.read())
                 file.close()
+                
             except:
                 print("No existe la URL")
                 print(link)
